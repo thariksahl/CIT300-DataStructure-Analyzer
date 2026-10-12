@@ -33,10 +33,10 @@ The project emphasizes object-oriented programming, modular code organization, i
 
 | No. | Team Member | Student ID | Responsibilities                                                                              |
 | --- | ----------- | ---------- | --------------------------------------------------------------------------------------------- |
-| 1   | Sahl        | 23DA2-0973 | Array implementation, searching algorithms, main menu integration, and performance comparison |
-| 2   | Aasir       | 23DA2-0887 | Stack and queue implementation and operations                                                 |
-| 3   | Rislan      | 23DA2-0790 | Singly linked list implementation and operations                                              |
-| 4   | Fazil       | 23DA2-0949 | Graph implementation, adjacency list, BFS, and DFS traversal                                  |
+| 1   | Sahl        | 23DA2-0973 | Graph implementation, adjacency list, BFS, and DFS traversal, main menu integration, and performance comparison |
+| 2   | Aasir       | 23DA2-0887 | Array implementation, searching algorithms                                                 |
+| 3   | Rislan      | 23DA2-0790 | Stack and queue implementation and operations                                              |
+| 4   | Fazil       | 23DA2-0949 | Singly linked list implementation and operations Graph implementation, adjacency list, BFS, and DFS traversal                                  |
 
 ## 3. Main Features
 
